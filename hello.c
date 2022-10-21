@@ -39,4 +39,5 @@ int main(void)
     printf("최대: %d, 최소: %d \n", *maxPtr, *minPtr);
 
     return 0;  
+    //test
 }
